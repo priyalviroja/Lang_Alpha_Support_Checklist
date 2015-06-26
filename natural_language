@@ -106,3 +106,34 @@ a b c č ć d e f g h ch i j k ł l m n o p r s š t w z ž
 
 
 
+á Á 	lower-case "a" with acute accent upper-case "A" with acute accent
+à À 	lower-case "a" with grave accent upper-case "A" with grave accent
+â Â 	lower-case "a" with circumflex upper-case "A" with circumflex
+å Å 	lower-case "a" with ring upper-case "A" with ring
+ã Ã 	lower-case "a" with tilde upper-case "A" with tilde
+ä Ä 	lower-case "a" with diaeresis/umlaut upper-case "A" with diaeresis/umlaut
+æ Æ 	lower-case "ae" ligature upper-case "AE" ligature
+ç Ç 	lower-case "c" with cedilla upper-case "C" with cedilla
+é É 	lower-case "e" with acute accent upper-case "E" with acute accent
+è È 	lower-case "e" with grave accent upper-case "E" with grave accent
+ê Ê 	lower-case "e" with circumflex upper-case "E" with circumflex
+ë Ë 	lower-case "e" with diaeresis/umlaut upper-case "E" with diaeresis/umlaut
+í Í 	lower-case "i" with acute accent upper-case "I" with acute accent
+ì Ì 	lower-case "i" with grave accent upper-case "I" with grave accent
+î Î 	lower-case "i" with circumflex upper-case "I" with circumflex
+ï Ï 	lower-case "i" with diaeresis/umlaut upper-case "I" with diaeresis/umlaut
+ñ Ñ 	lower-case "n" with tilde upper-case "N" with tilde
+ó Ó   lower-case "o" with acute accent upper-case "O" with acute accent
+ò Ò 	lower-case "o" with grave accent upper-case "O" with grave accent
+ô Ô 	lower-case "o" with circumflex upper-case "O" with circumflex
+ø Ø 	lower-case "o" with slash upper-case "O" with slash
+õ Õ 	lower-case "o" with tilde upper-case "O" with tilde
+ö Ö 	lower-case "o" with diaeresis/umlaut upper-case "O" with diaeresis/umlaut
+ß 	  ess-tsett
+ú Ú 	lower-case "u" with acute accent upper-case "U" with acute accent
+ù Ù 	lower-case "u" with grave accent upper-case "U" with grave accent
+û Û 	lower-case "u" with circumflex upper-case "U" with circumflex
+ü Ü 	lower-case "u" with diaeresis/umlaut upper-case "U" with diaeresis/umlaut
+ÿ 	  lower-case "y" with diaeresis/umlaut
+´ ` 	acute accent with no letter grave accent/reversed apostrophe with no letter
+
